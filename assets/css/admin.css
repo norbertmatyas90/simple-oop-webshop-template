@@ -1,0 +1,21 @@
+
+
+#logo{
+    width: 3rem!important;
+    height: auto;
+}
+
+.search-form {
+    margin-right: 2rem;
+}
+
+.side-nav{
+    position: absolute;
+    margin-top: 2rem;
+}
+
+main{
+    width: 80%;
+    margin-top: 2rem;
+    margin-left: 10rem;
+}
